@@ -51,7 +51,7 @@ public class MapExercise {
     public void addKeyValuePair(Map<Integer,String> map, int key, String value){
         map.put(key,value);
     }
-
+  
     /**
      * Get a value from a map given a key.
      * @param map a map to be manipulated.
